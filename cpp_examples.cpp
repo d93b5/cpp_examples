@@ -5,6 +5,6 @@
 int main()
 {
 	lambda_test();
-
+	test_forward();
 	return 0;
 }
